@@ -1,9 +1,9 @@
 {
   "name": "socket-io-typescript-example",
   "version": "0.0.1",
-  "description": "A socket.io example written in TypeScript",
+  "description": "Read from serial and push to websockets in Typescript",
   "main": "index.js",
-  "author": "Luis Aviles",
+  "author": "Christos Koutsiaris",
   "license": "MIT",
   "scripts": {
     "start": "node dist/index.js"
